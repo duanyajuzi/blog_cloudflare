@@ -4,7 +4,7 @@ import menu from "./menu";
 export default {
   site: {
     siteMetadata: {
-      title: "Blog by John Doe",
+      title: "Blog by Forzen Wu",
       url: "https://lumen.alxshelepenok.com",
       description: "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
       copyright: "All rights reserved.",

@@ -35,7 +35,7 @@ exports[`CategoryTemplate renders correctly 1`] = `
                         {
                           "$$typeof": Symbol(react.test.json),
                           "children": [
-                            "John Doe",
+                            "Forzen Wu",
                           ],
                           "props": {
                             "aria-current": "page",
