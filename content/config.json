@@ -1,9 +1,9 @@
 {
   "title": "Blog by Forzen Wu",
   "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "description": "programming coder, stock trader.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "G-BMNB5MEGC3",
   "pathPrefix": "/",
   "feedLimit": 4,
   "menu": [
@@ -23,15 +23,19 @@
   "author": {
     "title": "Forzen Wu",
     "photo": "/logo.png",
-    "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "description": "programming coder, stock trader.",
     "contacts": [
       {
         "name": "github",
-        "contact": "alxshelepenok"
+        "contact": "duanyajuzi"
       },
       {
         "name": "linkedin",
         "contact": "alxshelepenok"
+      },
+      {
+        "name": "telegram",
+        "contact": "forzen_w"
       }
     ]
   }
